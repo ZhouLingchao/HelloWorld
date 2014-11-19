@@ -1,0 +1,4 @@
+public Abstract Class AbstractFactory{
+  public AbstractProductA CreateProductA();
+  public AbstractProductB CreateProductB();
+}
